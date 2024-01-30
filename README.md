@@ -1,1 +1,1 @@
-# Internship-Tasks-Week-1
+The tasks are related to the basic c++ operations. We just have to save the names and weights for 30 students during their first day at school and during their last day at school. Than calculate the difference in bothh weights and print an appropriate message according to the gain and loss in weight.
